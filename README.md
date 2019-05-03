@@ -1,3 +1,5 @@
+# Using Machine Learning for Fake News Detection
+
 This project is part of ANLY-521 coursework at Georgetown University.
 
 This project explored the application of Natural Language Processing techniques for the detection of fake or misleading news stories that come from non-reputable sources. Naive-Bayes, SVM and RNN-LSTM machine learning techniques were used for analysis and a comparison of the efficiency of the methods was presented. 
