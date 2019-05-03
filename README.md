@@ -8,7 +8,7 @@ Files:
 * data.csv - Data used for fake news detection
 * NB_SVM.ipynb - Code for training and testing models using Naive-Bayes and Support Vector Machines
 * RNN-LSTM.ipynb - Code for training and testing model using Recurrent Neural Network with LSTM
-* Using_ML_For_Fake_Detection.pdf - Project report
+* Using_ML_For_Fake_News_Detection.pdf - Project report
 
 Built using: Python
 
